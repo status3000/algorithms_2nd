@@ -1,3 +1,4 @@
 #include <iostream>
+#include <util.hpp>
 
-int main() { return 0; }
+int main() { return max(0, -1); }
